@@ -138,5 +138,3 @@ select * from cte_ratio where tot_spend_cnt=(select max(tot_spend_cnt) from cte_
 
 
 
-
- use project
