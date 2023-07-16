@@ -5,6 +5,8 @@
 --  The purpose of this project is to utilize my SQL skill in playing with data and finding insight that can be used to make Business 
 --  decision.
 
+--  Data Source:- https://www.kaggle.com/datasets/thedevastator/analyzing-credit-card-spending-habits-in-india
+
 
 --  Data Exploration
 --  In this dataset, it contains 26K+ rows and there are 7 columns: transaction_id, city, transaction_date, card_type, exp_type, gender
